@@ -39,7 +39,12 @@ Ice Cream Scope is a user friendly application which is providing an easier way 
 
 # FEATURES AND FUNCTIONALITIES
 
+- Flavor can update, delete
+- Manage the order of the ice cream
+- Can search  the flavour
+
 # SCREEN NAVIGATION
+
 
 # WIDGETS
 
