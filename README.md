@@ -14,13 +14,15 @@ MOBILE APPLICATION DEVELOPMENT <br />
 SECTION 1 <br /><br />
   
 PROJECT PROPOSAL <br />
--BOOKING ICE CREAM-<br /><br />
+-ICE CREAM SCOPE-<br /><br />
   
 NUR ANIS BINTI AFFANDI - 1817100 <br />
 INTAN NAJWA BINTI MAZLAN - 2017424
 </h1>
 
 # INTRODUCTION
+
+  Ice Cream Scope is a booking online store that run the business to gain the customers and customer can browse the catalogue online and select the product themself. The selected ice cream will be appear into the ordering cart. When the customer satisfied with the flavor and selected the ice cream, they will checkout and it will appear in the order page. 
 
 # OBJECTIVE
 
