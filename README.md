@@ -22,7 +22,7 @@ INTAN NAJWA BINTI MAZLAN - 2017424
 
 # INTRODUCTION
 
-  Ice Cream Scope is a booking online store that run the business to gain the customers and customer can browse the catalogue online and select the product themself. The selected ice cream will be appear into the ordering cart. When the customer satisfied with the flavor and selected the ice cream, they will checkout and it will appear in the order page. 
+  Ice Cream Scope is a booking online store that runs the business to gain the customers and customers can browse the catalogue online and select the product themself. The selected ice cream will appear in the ordering cart. When the customer is satisfied with the flavor and selects the ice cream, the customer will checkout and the details will appear in the order page. From that page, the customer can check the details of payment and also transaction for the next step. To fulfill the order, customers will ask to fill the billing address and shipping address as well as shipping option, either using lalamove or grab. Not only that, the customer will automatically select their payment method as cash on delivery. After that, the bill will appear and be displayed to the customer. The customer also can order the selected ice cream quickly and comfortably without need to waste fuel and time to get stuck in a jam. Mostly the target audience or group customer is wide from child to adult which is from single to small business and also event.  
 
 # OBJECTIVE
 
