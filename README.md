@@ -44,7 +44,7 @@ Login
 1. Images
 2. Future Builder (snapshot history)
 3. Appbar
-4. Coloumn
+4. Column
 5. Container
 6. ElevatedButton
 7. Icon
