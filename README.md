@@ -29,9 +29,9 @@ INTAN NAJWA BINTI MAZLAN   | 2017424
 # OBJECTIVE
 
 Ice Cream Scope is a user friendly application which is providing an easier way to the customer to order a scope of ice cream with a higher quality. Below is the objective of the Ice Cream Scope online booking :
-- Customer will easier to choose the flavor
-- Customer will get to access easily and visit many times without need to enter the store
-- Customer will get the information and history of the order
+- To develop the application for customer will easier to choose the flavor
+- To develop the application for customer will get to access easily and visit many times without need to enter the store
+- To develop the application for customer will get the information and history of the order
 
 # FEATURES AND FUNCTIONALITIES
 - Flavor can update, delete
