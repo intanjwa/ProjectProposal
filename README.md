@@ -34,11 +34,10 @@ Ice Cream Scope is a user friendly application which is providing an easier way 
 - To develop the application for customer will get the information and history of the order
 
 # FEATURES AND FUNCTIONALITIES
-- Flavor can update, delete
-- 
+Login
+-The user can signup and login to the application for order the ice cream
 
 # SCREEN NAVIGATION
-1.Signup Screen 
 
 
 # WIDGETS
