@@ -38,10 +38,10 @@ Login
 -The user can signup and login to the application for order the ice cream
 
 Cart 
-- Enable user to fill the order form
+-Enable user to fill the order form
 
 OrderHistory
-- Enable user to view the history of order
+-Enable user to view the history of order
 
 # SCREEN NAVIGATION
 1. SingUp
