@@ -38,7 +38,11 @@ Login
 -The user can signup and login to the application for order the ice cream
 
 # SCREEN NAVIGATION
-
+- Signup
+- Login
+- ListofProducts (Main Screen)
+- Cart
+- Order History
 
 # WIDGETS
 1. Images
