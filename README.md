@@ -37,7 +37,19 @@ Ice Cream Scope is a user friendly application which is providing an easier way 
 Login
 -The user can signup and login to the application for order the ice cream
 
+Cart
+-User able to fill the order form
+
+Order History
+-Enable user to view the history of their order
+
+
 # SCREEN NAVIGATION
+1. SignUp
+2. Login
+3. ListOfProduct (Main screen)
+4. Cart
+5. Order History
 
 
 # WIDGETS
